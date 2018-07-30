@@ -22,7 +22,7 @@ My project is a silider. In this project, I use HTML5, CSS3 and JavaScript(ECMAS
 * JavaScript (ECMAScript6) 
 
 ## Demo
-
+Click on this link: https://igor27g.github.io/Slider/ 
 
 
 ## Status
